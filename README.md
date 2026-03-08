@@ -11,7 +11,7 @@ This aims to uncover trends, risk drivers, and high-impact insights that can sup
 - Identify **high-risk traffic violations**
 - Identify **high-risk cities and states** based on accident volumes
 - Compare **severity and fatality rates** across violation categories
-- Present insights through **clean, interactive Tableau dashboards**
+- Present insights through **interactive Tableau dashboards**
 
 ---
 
@@ -32,7 +32,7 @@ Key preprocessing steps:
 - Reshaped state-level data from **wide to long format**
 - Standardized column naming for analysis consistency
 - Engineered **fatality_rate** as a primary severity metric
-- Created clean, analysis-ready datasets for Tableau and SQL
+- Created clean datasets for Tableau and SQL
 
 ---
 
