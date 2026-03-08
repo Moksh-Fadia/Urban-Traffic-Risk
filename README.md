@@ -1,7 +1,7 @@
 # Urban Traffic Risk Analysis (2019–2023)
 
-An end-to-end **data analysis project** focused on understanding **road accident patterns, fatality severity, and risk factors** across major Indian cities and states using official accident statistics from **2019 to 2023**.
-The project combines **SQL, Python, and Tableau** to uncover trends, risk drivers, and high-impact insights that can support road safety analysis and policy decisions.
+This project analyzes road accident data from **2019 to 2023** to uncover patterns in accidents, fatality severity, and key risk factors across major Indian cities and states.
+This aims to uncover trends, risk drivers, and high-impact insights that can support road safety decisions.
 
 ---
 
