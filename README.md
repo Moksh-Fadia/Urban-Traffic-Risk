@@ -1,11 +1,11 @@
-# 🚦 Urban Traffic Risk Analysis (2019–2023)
+# Urban Traffic Risk Analysis (2019–2023)
 
 An end-to-end **data analysis project** focused on understanding **road accident patterns, fatality severity, and risk factors** across major Indian cities and states using official accident statistics from **2019 to 2023**.
 The project combines **SQL, Python, and Tableau** to uncover trends, risk drivers, and high-impact insights that can support road safety analysis and policy decisions.
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Analyze **road accident trends** across years (2019–2023)
 - Identify **high-risk traffic violations**
@@ -15,7 +15,7 @@ The project combines **SQL, Python, and Tableau** to uncover trends, risk driver
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python:** Pandas, Matplotlib, Seaborn
 - **SQL:** MySQL
@@ -23,7 +23,7 @@ The project combines **SQL, Python, and Tableau** to uncover trends, risk driver
 
 ---
 
-## 🧹 Data Preparation 
+## Data Preparation 
 
 Key preprocessing steps:
 
@@ -36,7 +36,7 @@ Key preprocessing steps:
 
 ---
 
-## 📊 Exploratory Analysis (Python) 
+## Exploratory Analysis (Python) 
 
 - **Accidents vs Fatalities:** 
   Accident volumes fluctuated year-to-year, but fatality rates did not always move proportionally, indicating that severity varies independently of accident count.
@@ -49,7 +49,7 @@ Key preprocessing steps:
 
 --- 
 
-## 🗄️ SQL Analytical Insights (MySQL)
+## SQL Analytical Insights (MySQL)
 
 - Ranking years by accident count and fatality severity
 - Identifying high-risk traffic violations using frequency vs severity logic
@@ -61,7 +61,7 @@ Key preprocessing steps:
 
 ---
 
-## 📈 Tableau Dashboards
+## Tableau Dashboards
 
 ### 1️⃣ Road Accidents: Risk and Trends
 ![Road Accidents](dashboards/accident_proj_dash1.png)
@@ -71,7 +71,7 @@ Key preprocessing steps:
 
 ---
 
-## 🔍 Key Insights 
+## Key Insights 
 
 - Covid year (2020) saw **lower accidents but higher fatality rate**
 - **Overspeeding** is the leading contributor to road accidents across cities
